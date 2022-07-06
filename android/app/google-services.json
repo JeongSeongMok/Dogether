@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812957228443",
+    "project_id": "dogether-3fe02",
+    "storage_bucket": "dogether-3fe02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812957228443:android:7200b06809ca1e00a0d53e",
+        "android_client_info": {
+          "package_name": "com.example.dogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812957228443-pmb915a4jrfq6r4rnq4m61n3k53c784a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dogether",
+            "certificate_hash": "6ccb0cced83924a741f2bf4ea392db00ee4fd48c"
+          }
+        },
+        {
+          "client_id": "812957228443-c4iq53t4091spvn21e1s5k96knfeeiq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudFCXWzfGOCUinmjfw6exy-lYkP-xbrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812957228443-c4iq53t4091spvn21e1s5k96knfeeiq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
